@@ -6,7 +6,7 @@ Open-source builder in Prague, Czech Republic. Currently building AI agents and 
 
 I believe software on your computer should be yours. That's the principle behind the open-source tools I build.
 
-[Website](https://danielbilek.me) · [Writing](https://danielbilek.me/blog) · [X](https://x.com/danielbilekq0) · [LinkedIn](https://www.linkedin.com/in/daniel-bilek/)
+[Website](https://danielbilek.me) · [Writing](https://danielbilek.me/blog) · [X](https://x.com/danielbilek) · [LinkedIn](https://www.linkedin.com/in/daniel-bilek/)
 
 ## What I'm building
 
@@ -38,6 +38,6 @@ AI agents, software ownership, open source, and building ambitious systems alone
 
 I work with **TypeScript, Go, Python, and PHP**, and I'm learning **Rust**.
 
-Want to talk? [Message me on X](https://x.com/danielbilekq0). It's the fastest way to reach me, quicker than email.
+Want to talk? [Message me on X](https://x.com/danielbilek). It's the fastest way to reach me, quicker than email.
 
 For other contact options, see [my website](https://danielbilek.me/contact).
