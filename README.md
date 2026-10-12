@@ -10,13 +10,13 @@ Open-source builder in Prague. Software on your computer should be yours.
 
 ### [Prokop](https://github.com/capek-dev/prokop)
 
-**Coding agents that remember how you work.**
+**Coding agents get to know you.**
 
-An open-source coding workspace with persistent agents, parallel sessions, and context you can inspect and change. Files, Git, terminals, and permissions in one place. I'm its creator and sole maintainer.
+An open-source coding workspace where your agents keep their own memory and skills, search their earlier sessions, and learn from finished work. Use it with Claude Code, Codex, or Prokop's own runtime.
 
 Built with TypeScript, Bun, React, and Hono. No required Prokop account, no telemetry, Apache 2.0.
 
-[Try Prokop](https://prokopai.dev/get-started/) · [Documentation](https://prokopai.dev/docs/) · [Source](https://github.com/capek-dev/prokop)
+[Try Prokop](https://prokopai.dev/get-started/) · [Documentation](https://prokopai.dev/docs/) · [Source](https://github.com/prokopai/prokop)
 
 Also building **[Write.md](https://writemd.app/)**, a free, open-source Markdown editor for macOS.
 
